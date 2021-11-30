@@ -1,2 +1,4 @@
 # 100days_of_Javascript_Template
-Ready to Rage , ......... 
+
+
+# Live Demo : https://raydcode.github.io/RandomColorGenerator/
